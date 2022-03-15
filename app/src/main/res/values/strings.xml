@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ColorApp</string>
+    <string name="mosaic">马赛克</string>
+    <string name="scale_gesture_item">手势缩放</string>
+    <string name="share">分享</string>
+    <string name="sticker">生成表情包</string>
+    <string name="guide">涂鸦入门</string>
+    <string name="simple_doodle">初级涂鸦</string>
+    <string name="middle_doodle">中级级涂鸦</string>
+    <string name="advanced_doodle">高级级涂鸦</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings">设置</string>
+</resources>

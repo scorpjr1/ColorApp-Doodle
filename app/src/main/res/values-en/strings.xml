@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ColorApp</string>
+    <string name="mosaic">Mosaic</string>
+    <string name="scale_gesture_item">Scale gesture</string>
+    <string name="share">Share</string>
+    <string name="sticker">Make Sticker</string>
+    <string name="guide">Doodle Guide</string>
+    <string name="simple_doodle">Simple doodle</string>
+    <string name="middle_doodle">Middle doodle</string>
+    <string name="advanced_doodle">Advanced doodle</string>
+    <string name="settings">设置</string>
+</resources>
